@@ -1,5 +1,8 @@
 # MultimediaWebApp Backend
 
+# Backend is deployed on AWS Ec2
+http://13.206.241.248:8080/
+
 Backend service for the MultimediaWebApp platform built using Spring Boot and PostgreSQL.
 
 The backend handles:
